@@ -1,3 +1,2 @@
 Hello, Hexlet! How are you?
-experiment with amend
-yyyyyy
+Hello, World!
